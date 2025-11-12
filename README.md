@@ -104,6 +104,7 @@ Additionally, static assets (like images) are served securely from Amazon S3.
 
 <img width="698" height="123" alt="image" src="https://github.com/user-attachments/assets/e15c602e-5862-44a2-a746-be900ee17914" />
 
+
 ✅ Advantage: Your S3 bucket stays private — only your CloudFront distribution can serve its content globally.
 
 ## 8️⃣ 🌍 Setup CloudFront (Global CDN)
@@ -115,9 +116,12 @@ Additionally, static assets (like images) are served securely from Amazon S3.
       A) Redirect HTTP → HTTPS
       B) Managed-CachingOptimized policy
       C) Custom SSL certificate (ACM / Certbot)
+
 ✅ CloudFront improves global performance, caching, and secure content delivery.
 
+
 ## 9️⃣ 🧪 Testing and Validation
+
 
    ✅ Verified:
       1) https://cloudtechlearner.online loads the website securely.
@@ -136,11 +140,21 @@ Additionally, static assets (like images) are served securely from Amazon S3.
 
 # 🏁 Final Output
 
-## ✅ Static Website Hosted & Deployed Successfully
-## 🌍 Domain: https://cloudtechlearner.online
-## 🔒 HTTPS Secured with SSL
-## 🚀 Accelerated via CloudFront CDN
+#### ✅ Static Website Hosted & Deployed Successfully
+#### 🌍 Domain: https://cloudtechlearner.online
+#### 🔒 HTTPS Secured with SSL
+#### 🚀 Accelerated via CloudFront CDN
 #### 📦 S3 Assets Protected via CloudFront Policy
-🌐 Domain Purchased & Linked via Hostinger + Route 53
+#### 🌐 Domain Purchased & Linked via Hostinger + Route 53
+
+
+# ✨ Optional Future Enhancements
+
+  1) Integrate CloudWatch for monitoring.
+  2) Set up CI/CD with GitHub Actions or CodePipeline.
+  3) Enable Auto Scaling and Load Balancer (ALB) for high availability.
+  4) Add AWS Backup or EBS Snapshots for recovery.
+
+
 
 
