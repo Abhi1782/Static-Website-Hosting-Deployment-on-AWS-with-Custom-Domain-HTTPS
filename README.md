@@ -1,1 +1,1 @@
-# -Static-Website-Hosting-Deployment-on-AWS-with-Custom-Domain-HTTPS
+# Static-Website-Hosting-Deployment-on-AWS-with-Custom-Domain-HTTPS
