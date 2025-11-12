@@ -105,6 +105,7 @@ Additionally, static assets (like images) are served securely from Amazon S3.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+✅ Advantage: Your S3 bucket stays private — only your CloudFront distribution can serve its content globally.
 
 
 
