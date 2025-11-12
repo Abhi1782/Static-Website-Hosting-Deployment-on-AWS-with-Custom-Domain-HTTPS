@@ -130,8 +130,8 @@ Additionally, static assets (like images) are served securely from Amazon S3.
       4) Images load through S3 + CloudFront.
       5) DNS propagation and routing work as expected.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🧰 Tools & Services Used
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="556" height="219" alt="image" src="https://github.com/user-attachments/assets/76266fec-80cd-4eaf-a31f-740639192dc2" />
@@ -147,6 +147,7 @@ Additionally, static assets (like images) are served securely from Amazon S3.
 #### 📦 S3 Assets Protected via CloudFront Policy
 #### 🌐 Domain Purchased & Linked via Hostinger + Route 53
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ✨ Optional Future Enhancements
 
@@ -155,6 +156,27 @@ Additionally, static assets (like images) are served securely from Amazon S3.
   3) Enable Auto Scaling and Load Balancer (ALB) for high availability.
   4) Add AWS Backup or EBS Snapshots for recovery.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# 🎯 Project Outcome Summary
 
+<img width="387" height="252" alt="image" src="https://github.com/user-attachments/assets/6ffa399a-892b-41ea-a049-13ee447f50a2" />
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"C:\Users\Lenovo\OneDrive\Documents\Project\Nginx Web Server Hosting with SSL\Captures\Museum of Candy.mp4"
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🎉 Thank You!
+
+## ✨ Thank you for exploring this project!
+This deployment marks the successful completion of my Static Website Hosting on AWS — powered by Ubuntu, Nginx, Route 53, S3, CloudFront, and SSL (Certbot).
+
+It demonstrates real-world cloud implementation, including domain mapping, DNS configuration, HTTPS security, and global content delivery — all integrated into a seamless,       production-ready architecture.
+
+## 🌍 Through this project, I gained hands-on experience in web hosting, domain management, and SSL encryption, further strengthening my AWS cloud engineering skills.
+
+## 💡 Continuous learning never stops — new projects are on the way! 🚀
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
